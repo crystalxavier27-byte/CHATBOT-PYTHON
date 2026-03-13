@@ -1,0 +1,9 @@
+DevOps is a practice that combines software development and IT operations to improve collaboration and automate software delivery.
+
+CI/CD pipelines automate the process of integrating code changes, testing applications and deploying them into production environments.
+
+Cloud automation tools such as Terraform, Ansible and AWS CloudFormation help automate infrastructure provisioning and configuration.
+
+Docker is used to create lightweight containers that package applications and their dependencies together.
+
+Kubernetes is used to manage and scale containerized applications efficiently.
